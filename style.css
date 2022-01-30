@@ -47,11 +47,22 @@ p {
         background-color: purple;
         
     }
-    .top {
-        width: %90;
-        height: 200px;
-        align-content: a;
+    .mid{
+        background-color: darkorchid;
+        border-color: darkred;
     }
+    .top {
+       
+        display:block;
+        background-color: cyan;
+        text-align: center;
+         
+                
+        
+
+        
+    }
+
     
 }
     
